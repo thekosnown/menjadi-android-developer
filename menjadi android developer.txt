@@ -1,3 +1,6 @@
 1. belaajar java
 2. belajar java oop
 3. belajar git
+4. belajar matematika komputasi
+5. belajar html & css
+6. belajar kotlin
