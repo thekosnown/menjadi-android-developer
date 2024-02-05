@@ -3,4 +3,5 @@
 3. belajar git
 4. belajar matematika komputasi
 5. belajar html & css
-6. belajar kotlin
+6. belajar bahasa ingris
+7. belajar kotlin
